@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "author": {
+    "email": "ehsan.shahbakhsh.email@gmail.com",
+    "name": "Ehsan shahbakhsh",
+    "url": "https://github.com/ehsan-shahbakhsh"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "lil-gui": "^0.19.2",
+    "three": "^0.168.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
